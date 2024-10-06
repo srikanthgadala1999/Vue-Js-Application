@@ -34,3 +34,5 @@ for API calls we installed axios packages.
 
 on page loading - called the API - to get the campaign_school_list - displayed in list
 developed the search functionality and clear search.
+
+![Screenshot of the application](/public/Images/Application SS.png)
